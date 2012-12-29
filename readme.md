@@ -3,8 +3,7 @@ Stop Theme Changes Plugin for MyBB
 
 + Current Version: 1
 + Author: Jordan Mussi
-+ Website: http://mussi.site90.net/jordan/
-+ Plugin: http://mussi.site90.net/jordan/showthread.php?tid=7
++ Plugin: http://mods.mybb.com/view/stop-theme-changes
 + Compatibility: 16*
 
 General
