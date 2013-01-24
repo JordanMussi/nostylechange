@@ -1,14 +1,14 @@
 Stop Theme Changes Plugin for MyBB
 ==========
 
-+ Current Version: 1
++ Current Version: 1.1
 + Author: Jordan Mussi
 + Plugin: http://mods.mybb.com/view/stop-theme-changes
-+ Compatibility: 16*
++ Compatibility: 16*,18*
 
 General
 ----------
-This plugin gets rid of the style option in the usercp. You can also run a task to set all users to view the default theme. Once activated you may click on the edit and run tasks in the plugin description. The Use Default Theme on default should run on the first of every month at 23:00. When you run the Use Default Theme task all the users option for style will be set to default. Meaning that when you change your default theme in the Admin Control Panel all users will be shown that theme immediately. On activation the change style option in the UserCP will be deleted for the themes installed in your Admin Control Panel at the time of activation. Please note if you have plugins like MyTheme and other quick theme changers this plugin won't be able to stop theme changes from mods like that. Also this plugin can't definitely stop style changes because someone can use a form to post that particular input to your UserCP page if they really wanted to.
+This plugin gets rid of the style option in the usercp. You can also run a task to set all users to view the default theme. Once activated you may click on the edit and run tasks in the plugin description. The Use Default Theme task on default will be deactivated, once it is it should run on the first of every month at 23:00. When you run the Use Default Theme task all the users option for style will be set to default. Meaning that when you change your default theme in the Admin Control Panel all users will be shown that theme immediately. On activation the change style option in the UserCP will be deleted for the themes installed in your Admin Control Panel at the time of activation. Please note if you have plugins like MyTheme and other quick theme changers this plugin won't be able to stop theme changes from modifications like that.
 
 Install
 ----------
