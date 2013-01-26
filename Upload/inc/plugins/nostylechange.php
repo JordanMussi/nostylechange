@@ -1,8 +1,8 @@
 <?php
-
 /***************************************************************************
  *
  *  Author: Jordan Mussi
+ *	File:	./inc/plugins/friendly_name.php
  *  
  *  License:
  *  
@@ -34,7 +34,7 @@ function nostylechange_info(){
 		"author"		=> "Jordan Mussi",
 		"authorsite"	=> "http://mussi.site90.net/jordan",
 		"guid"          => "7bb5b41e56b3a3658cc77c9fcd0fbdab",
-		"version"		=> "1",
+		"version"		=> "1.1",
 		"compatibility" => "16*,18*"
 	);
    if(is_array($plugins_cache) && is_array($plugins_cache['active']) && $plugins_cache['active']['nostylechange'])
